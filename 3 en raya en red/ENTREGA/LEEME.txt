@@ -1,0 +1,33 @@
+############################################################################################
+# LABORATORIO DE PROGRAMACIÓN DE SISTEMAS 2012/2013
+# Ingeniería Técnica en Informática de Sistemas
+# Departamento de Ingeniería del Software e Inteligencia Artificial
+# Facultad de Informática, Universidad Complutense de Madrid
+# 
+# TRES EN RAYA - VERSIÓN CLIENTE/SERVIDOR
+# Por Federico Peinado
+# 
+# Adaptación del conocido tutorial del libro 'Java How to program' de Deitel & Deitel
+# http://www.deitel.com/Books/Java/JavaHowtoProgram9eEarlyObjectsVersion/tabid/3622/Default.aspx
+############################################################################################
+
+DESCRIPCIÓN
+
+Arrancar primero el servidor y luego dos clientes para jugar al juego de las Tres en Raya.
+
+LICENCIA
+
+Copyright (C) 2012-2013 Federico Peinado
+http://www.federicopeinado.com
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU Lesser General Public License as published by
+    the Free Software Foundation; either version 3 of the License, or any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+    See the GNU Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public License
+    along with this program. If not, see <http://www.gnu.org/licenses/>.
